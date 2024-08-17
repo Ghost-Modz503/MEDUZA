@@ -1,7 +1,7 @@
 {
-  "name": "MEDUZA MD",
-  "description": "Javascript WhatsApp bot made by MEDUZA MD",
-  "logo": "https://telegra.ph/file/0cf4d5fb86c224c4f5fe0.jpg",
+  "name": "YourBot",
+  "description": "Javascript WhatsApp bot made by YourName",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
